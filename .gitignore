@@ -1,0 +1,8 @@
+#Node modules
+node_modules
+
+#Config
+nodeserver/config.json
+
+#Output files
+public
